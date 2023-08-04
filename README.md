@@ -5,7 +5,7 @@
 
 Token vesting refers to a process where tokens are locked and released slowly over a period of time. If the tokens are locked, they cannot be transferred or used until they are released. This is to mitigate attempts to introduce a large supply of tokens to the market at any point in time.
 
-Create an vesting application which involves using smart contracts to lock the tokens for a specified duration. The tokens can be retrieved progressively via your application within the vesting period.
+Create a vesting application which involves using smart contracts to lock the tokens for a specified duration. The tokens can be retrieved progressively via your application within the vesting period.
 
 The tokens distribution table are as follows. The vesting period is the duration which the allocated percentage of tokens will be progressively released. Cliff refers to the initial duration within the vesting period which the tokens are locked. Upon the end of the cliff, the stakeholder is able to receive a portion of the allocated stake from the subsequent month onwards.
 
